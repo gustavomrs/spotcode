@@ -1,11 +1,11 @@
 import React, { Fragment } from 'react'
 
-const SearchScreen = () => {
+const HomeScreen = () => {
   return (
     <Fragment>
-      <div>Search Screen</div>
+      <div>Home Screen</div>
     </Fragment>
   )
 }
 
-export default SearchScreen;
+export default HomeScreen;
