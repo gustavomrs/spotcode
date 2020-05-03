@@ -9,7 +9,7 @@ const DivSpaced = styled.div`
 
 const Album = (props) => {
   return (
-    <Link to={`/albums/${props.id}`}>
+    <Link to={`/album/${props.id}`}>
       <Fragment>
         <Image src={props.cover_url}></Image>
         <DivSpaced>
