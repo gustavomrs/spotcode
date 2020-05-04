@@ -22,9 +22,6 @@ const Music = (props) => {
     playingButton = <FaPlayCircle size='45px' className='has-text-white' onClick={() => props.setPlaying(props.song)} />
   }
 
-  console.log('Music')
-  console.log(props.song)
-
   return (
     <Fragment>
       <Columns className='is-vcentered is-mobile is-centered'>
