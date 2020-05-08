@@ -4,7 +4,7 @@ import { Image, Heading } from 'react-bulma-components'
 import { Link } from 'react-router-dom'
 
 const DivSpaced = styled.div`
-  margin-top: 50px;
+  margin-top: 10px;
 `
 
 const Album = (props) => {
@@ -13,8 +13,8 @@ const Album = (props) => {
       <Fragment>
         <Image src={props.cover_url}></Image>
         <DivSpaced>
-          <Heading size={6} className='has-text-white' >{props.title}</Heading>
-          <Heading size={6} className='has-text-white' subtitle>{props.artist_name}</Heading>
+          <Heading size={6} className='has-text-white has-text-centered' >{props.title}</Heading>
+          <Heading size={6} className='has-text-white has-text-centered' subtitle>{props.artist_name}</Heading>
         </DivSpaced>
       </Fragment>
     </Link>

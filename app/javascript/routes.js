@@ -4,6 +4,7 @@ import DiscoveryScreen from './screens/discovery';
 import SearchScreen from './screens/search';
 import AlbumScreen from './screens/album';
 import FavoritesScreen from './screens/favorites';
+import ArtistScreen from './screens/artist'
 import { Switch, Route } from 'react-router-dom'
 
 const Routes = () => (
@@ -13,6 +14,7 @@ const Routes = () => (
     <Route exact path='/search' component={SearchScreen}></Route>
     <Route exact path='/album/:id' component={AlbumScreen}></Route>
     <Route exact path='/favorites' component={FavoritesScreen}></Route>
+    <Route exact path='/artists/:id' component={ArtistScreen}></Route>
   </Switch>
 )
 

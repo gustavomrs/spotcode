@@ -22,6 +22,7 @@ Rails.application.routes.draw do
       resources :songs, only: [] do
         concerns :favoritable, favoritable_type: 'Song'
       end
+      resources :artists, only: :show
     end
   end
 
