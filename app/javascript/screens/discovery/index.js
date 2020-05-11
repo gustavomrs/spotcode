@@ -14,4 +14,4 @@ const DiscoveryScreen = () => {
   )
 }
 
-export default DiscoveryScreen;
+export default DiscoveryScreen
