@@ -44,6 +44,9 @@ const HomeScreen = () => {
           <a href='/users/sign_up'>
             <ButtonSubscribe className='is-success is-outlined is-large has-text-white'>Register now</ButtonSubscribe>
           </a>
+          <a href='/discovery'>
+            <ButtonSubscribe className='is-success is-outlined is-large has-text-white'>Discovery</ButtonSubscribe>
+          </a>
         </Columns.Column>
       </Columns>
     </SectionWrapper>
