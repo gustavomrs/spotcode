@@ -12,12 +12,11 @@ PWA with Ruby on Rails + ReactJS
 ### See and listen to musics from an album:
 ![Show Album](demo/show_album.png)
 
-### Search by text or gender:
+### Search by text (albums, artists, musics) or genders:
 ![Search](demo/search.png)
 
-### Search result Albums, Artists and Musics:
+### Search result albums, artists and musics:
 ![Result Search](demo/result_search.png)
-
 
 ### Favorites Albums, Artists and Musics per user:
 ![Favorites](demo/favorites.png)
