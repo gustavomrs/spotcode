@@ -8,7 +8,7 @@ const SearchScreen = () => {
   return (
     <Fragment>
       <SectionWrapper>
-        <Heading className='has-text-centered has-text-white'>Buscar</Heading>
+        <Heading className='has-text-centered has-text-white'>Search</Heading>
         <Search />
       </SectionWrapper>
       <NavbarFooter />

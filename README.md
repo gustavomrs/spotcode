@@ -4,7 +4,7 @@ PWA with Ruby on Rails + ReactJS
 
 
 ### Initial screen, first page of the APP:
-![Initial Screen](demo/initial_screen.png)
+![Initial Screen](demo/initial.png)
 
 ### Home screen with random recommendation:
 ![Home](demo/home.png)
