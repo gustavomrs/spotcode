@@ -4,24 +4,24 @@ PWA with Ruby on Rails + ReactJS
 
 
 ### Initial screen, first page of the APP:
-![Initial Screen](demo/initial_screen.png?raw=true "Title")
+![Initial Screen](demo/initial_screen.png)
 
 ### Home screen with random recommendation:
-![Home](demo/home.png?raw=true "Title")
+![Home](demo/home.png)
 
 ### See musics from an album:
-![Show Album](demo/show_album.png?raw=true "Title")
+![Show Album](demo/show_album.png)
 
 ### Search by text or gender:
-![Search](demo/search.png?raw=true "Title")
+![Search](demo/search.png)
 
 
 ### Search result Albums, Artists and Musics:
-![Result Search](demo/result_search.png?raw=true "Title")
+![Result Search](demo/result_search.png)
 
 
 ### Favorites Albums, Artists and Musics per user:
-![Favorites](demo/favorites.png?raw=true "Title")
+![Favorites](demo/favorites.png)
 
 
 
