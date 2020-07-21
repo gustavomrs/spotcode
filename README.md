@@ -9,12 +9,11 @@ PWA with Ruby on Rails + ReactJS
 ### Home screen with random recommendation:
 ![Home](demo/home.png)
 
-### See musics from an album:
+### See and listen to musics from an album:
 ![Show Album](demo/show_album.png)
 
 ### Search by text or gender:
 ![Search](demo/search.png)
-
 
 ### Search result Albums, Artists and Musics:
 ![Result Search](demo/result_search.png)
